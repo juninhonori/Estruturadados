@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class EstuturadadosApplication {
-	
+
 
 	public static void main(String[] args) {
 		Conjunto conjunto = new Conjunto();
